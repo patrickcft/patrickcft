@@ -1,9 +1,6 @@
-### Hi there 👋
+### Diga lá, meu nombre! 👋
 
-<!--
-**patrickcft/patrickcft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+ <img height="100px" src="https://media.giphy.com/media/8mAeiYfGoydhju8cMC/giphy.gif"> 
+ 
+</div>
+
